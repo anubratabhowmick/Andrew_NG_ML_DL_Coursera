@@ -3,4 +3,6 @@ All the problem assignments of the Machine Learning course by Stanford Universit
 
 All the problems have been solved in Matlab. 
 
-Note : Please use these for reference and don't copy the codes. Learning is number one priority
+Updated the course with the new solved solutions in Python.
+
+Note : Please use these for reference and don't copy the codes. Learning is number one priority.
