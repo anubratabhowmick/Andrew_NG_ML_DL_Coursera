@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220717T195351Z
+UID:calendly-510210129
+DTSTART:20220727T150000Z
+DTEND:20220727T151500Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: 15 Minute Meeting\nEvent Description: Let's meet vi
+ a Zoom -- alternatively\, please provide your phone number so I can call y
+ ou.\nDate & Time: 17:00 - 17:15 (Central European Time) on Wednesday\, Jul
+ y 27\, 2022\nLocation: This is a Zoom web conference.\n\nYou can join this
+  meeting from your computer\, tablet\, or smartphone.\nhttps://us06web.zoo
+ m.us/j/84936573217\n\nYou can also dial in using your phone.\nUS: +1 646 9
+ 31 3860\, +1 301 715 8592\, +1 312 626 6799\, +1 646 558 8656\, +1 720 707
+  2699\, +1 253 215 8782\, +1 346 248 7799\, +1 669 444 9171\nMeeting ID: 8
+ 49-365-73217\n\nFind your local number: https://us06web.zoom.us/u/ksqaGTsh
+ P\n\nNeed to make changes to this event?\nCancel: https://calendly.com/can
+ cellations/dd7522f1-660b-4794-864f-767b3f92f166\nReschedule: https://calen
+ dly.com/reschedulings/dd7522f1-660b-4794-864f-767b3f92f166\n
+LOCATION:https://us06web.zoom.us/j/84936573217
+SUMMARY:15 Minute Meeting with Jeremy Henrichs
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
